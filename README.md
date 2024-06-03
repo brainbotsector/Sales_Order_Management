@@ -3,7 +3,7 @@ This project is built with React.js and styled with Chakra UI, offering a smooth
 Powered by React Vite for fast development and Chakra UI for responsive styling.
 
 # Try your hands-on 
-View Website: [https://sales-order-management-eight.vercel.app/](https://sales-order-management-eight.vercel.app/)
+View Website: [SALES ORDER MANAGEMENT](https://sales-order-management-eight.vercel.app/)
 
 ## Getting set up is super easy. Here’s what you need to do:
 
